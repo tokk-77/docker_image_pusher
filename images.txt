@@ -1,2 +1,2 @@
 #支持私库
-neo4jdb/neo4j:latest
+neo4j:latest
