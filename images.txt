@@ -1,2 +1,2 @@
 #支持私库
-xprobe/xinference:latest
+neo4jdb/neo4j:latest
